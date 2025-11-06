@@ -72,7 +72,7 @@ Existem quatro grupos de "compradores" na economia:
     - **-M (Importações):** Devemos SUBTRAIR o que compramos de fora. Por quê? Porque esse valor já está escondido dentro do 'C', 'I' ou 'G' (quando você compra um celular importado, ele conta no 'C', por exemplo). Mas esse celular não foi produzido dentro do país, então ele não pode fazer parte do nosso "Produto Interno Bruto". Por isso, o subtraímos para "limpar" a conta e medir apenas o que foi feito aqui.
 
 ### DICAS DE AULA
-> - TUDO QUE É PRODUZIDO TEM UM DESTINO.
+> - TUDO QUE É PRODUZIDO TEM UM DESTINO;
 > - NÃO ENTRARÁ PARA O CÁLCULO DO PIB:
 >   - TUDO QUE **NÃO** ESTÁ NO SETOR FORMAL DO MERCADO/SOCIEDADE (CAMELÔS, COMÉRCIOS NÃO REGISTRADOS, ATIVIDADES ILÍCITAS, ETC);
 >   - PRODUTOS USADOS.
@@ -102,3 +102,34 @@ A alternativa "**e) Todas as alternativas**" é a correta, pois todas as alterna
     - É o objetivo de fazer o PIB crescer de forma sustentada. O crescimento econômico é a principal forma de um país enriquecer. É como o "bolo" da economia aumenta de tamanho ano após ano, permitindo que a renda média das pessoas suba, que o governo arrecade mais (para investir em saúde/educação) e que o padrão de vida melhore.
 - **A distribuição de renda**
     - É o objetivo de reduzir as disparidades econômicas entre os mais ricos e os mais pobres da sociedade. Esse objetivo não é apenas moral ou social (como a busca por justiça social e redução da pobreza), mas também econômico. Uma desigualdade extrema pode limitar o potencial de consumo do país e gerar instabilidade social e política.
+
+## Questão 5: Instrumentos da Política Fiscal
+
+São instrumentos da política fiscal:
+
+**a) Os dois lados dos orçamentos públicos: a estrutura das receitas e a das despesas.**  
+b) Apenas um dos lados da execução orçamentária do governo: a das despesas.  
+c) Apenas um dos lados da execução orçamentária do governo: a das receitas.  
+d) Apenas os que exercem efeitos expansionistas na economia.  
+
+### RESOLUÇÃO
+
+A alternativa "**a) Os dois lados dos orçamentos públicos: a estrutura das receitas e a das despesas.**" é a correta porque a Política Fiscal é, por definição, o conjunto de decisões do governo sobre como arrecadar e como gastar seus recursos para atingir os objetivos macroeconômicos (crescimento, emprego, controle da inflação, etc.).
+
+Os "instrumentos" são as ferramentas que o governo tem para fazer isso. E ele tem duas ferramentas principais, que são os dois lados do orçamento:
+
+- **Receitas (Lado da Arrecadação):**
+    - **Principal instrumento:** Tributação (impostos).
+    - **Como usa?** O governo pode alterar as alíquotas (percentuais) ou as regras dos impostos (Imposto de Renda, IPI, ICMS, etc.).
+    - **Exemplo Expansionista:** Para estimular a economia (aumentar C e I), o governo pode reduzir impostos. Com menos impostos, sobra mais dinheiro para as famílias consumirem e para as empresas investirem.
+    - **Exemplo Contracionista:** Para "esfriar" uma economia superaquecida (e combater a inflação), o governo pode aumentar impostos.
+
+- **Despesas (Lado dos Gastos):**
+    - **Principal instrumento:** Gastos Públicos (G).
+    - **Como usa?** O governo pode decidir gastar mais ou menos em salários, obras públicas (estradas, portos), saúde, educação, programas sociais, etc.
+    - **Exemplo Expansionista:** Para estimular a economia, o governo pode aumentar seus gastos (ex: construir uma nova hidrelétrica). Isso injeta dinheiro diretamente na economia, criando empregos e demanda (lembre do 'G' na fórmula do PIB).
+    - **Exemplo Contracionista:** Para "esfriar" a economia, o governo pode cortar gastos.
+
+### DICAS DE AULA
+> - A POLÍTICA FISCAL É TODA AÇÃO DO GOVERNO REFERENTE AOS **GASTOS (DESPESAS)** E AOS **TRIBUTOS/IMPOSTOS (RECEITAS)** DO GOVERNO.  
+> - QUALQUER AÇÃO DO GOVERNO NO SENTIDO DE **AUMENTAR GASTOS**, **DIMINUIR GASTOS**, **AUMENTAR IMPOSTOS** E **DIMINUIR IMPOSTOS** SERÁ UMA AÇÃO DA **POLÍTICA FISCAL**.
