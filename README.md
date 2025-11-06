@@ -38,7 +38,8 @@ A resposta correta é a **c) Todos os produzidos no país por quaisquer tipos de
 
 - **Bruto**: Significa que não estamos descontando a depreciação (o desgaste) do capital (máquinas, prédios) usado na produção.
 
-> DICA DE AULA: O QUE IMPORTA É ONDE FOI PRODUZIDO, E NÃO QUEM PRODUZIU.
+### DICAS DE AULA:
+> - O QUE IMPORTA É **ONDE** FOI PRODUZIDO, E NÃO QUEM PRODUZIU.
 
 ## Questão 3: Identidade Macroeconômica Básica (equação do PIB) pelo lado da Demanda
 
@@ -49,3 +50,30 @@ b) Y=C+G+I−(X−M)
 c) Y=C+G+I+(M−X)  
 d) Y=C+G+I  
 e) Y=C+X+I−(G−M)  
+
+### RESOLUÇÃO
+
+A resposta correta é a "**a) Y = C + G + I + (X - M)**" porque essa equação representa quem compra tudo o que é produzido (Y) em um país.
+
+Pense no Y (PIB) como a produção total da economia (o "bolo" inteiro). A "Identidade pelo lado da Demanda" simplesmente pergunta: "Quem são os grupos que demandam (compram) fatias desse bolo?"
+
+Existem quatro grupos de "compradores" na economia:
+
+- **C (Consumo):** São as Famílias. É a demanda por bens e serviços que todos nós consumimos no dia-a-dia (comida, roupas, aluguel, serviços).
+
+- **I (Investimento):** São as Empresas. É a demanda por bens de capital, ou seja, o que as empresas compram para produzir mais no futuro (máquinas novas, construção de fábricas, software, estoque).
+
+- **G (Gastos do Governo):** É o Governo. É a demanda do setor público por bens e serviços (construção de escolas, salários de funcionários públicos, compra de equipamentos para hospitais).
+
+- **(X - M) (Exportações Líquidas ou Balança Comercial):** É o Setor Externo (o resto do mundo). Este é o componente que ajusta a equação para a produção interna.
+
+    - **+X (Exportações):** Devemos SOMAR o que vendemos para fora. Por quê? Porque é um produto que foi feito **dentro** do país (faz parte do nosso Y), mas foi "demandado" (comprado) por estrangeiros.
+
+    - **-M (Importações):** Devemos SUBTRAIR o que compramos de fora. Por quê? Porque esse valor já está escondido dentro do 'C', 'I' ou 'G' (quando você compra um celular importado, ele conta no 'C', por exemplo). Mas esse celular não foi produzido dentro do país, então ele não pode fazer parte do nosso "Produto Interno Bruto". Por isso, o subtraímos para "limpar" a conta e medir apenas o que foi feito aqui.
+
+### DICAS DE AULA
+> - TUDO QUE É PRODUZIDO TEM UM DESTINO.
+> - NÃO ENTRARÁ PARA O CÁLCULO DO PIB:
+>   - TUDO QUE **NÃO** ESTÁ NO SETOR FORMAL DO MERCADO/SOCIEDADE (CAMELÔS, COMÉRCIOS NÃO REGISTRADOS, ATIVIDADES ILÍCITAS, ETC);
+>   - PRODUTOS USADOS.
+> - A IMPORTAÇÃO É SUBTRAÍDA, POIS É CONTABILIZADA NO PIB DO OUTRO PAÍS.
