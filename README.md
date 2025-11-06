@@ -77,3 +77,28 @@ Existem quatro grupos de "compradores" na economia:
 >   - TUDO QUE **NÃO** ESTÁ NO SETOR FORMAL DO MERCADO/SOCIEDADE (CAMELÔS, COMÉRCIOS NÃO REGISTRADOS, ATIVIDADES ILÍCITAS, ETC);
 >   - PRODUTOS USADOS.
 > - A IMPORTAÇÃO É SUBTRAÍDA, POIS É CONTABILIZADA NO PIB DO OUTRO PAÍS.
+
+## Questão 4: Objetivos da Política Econômica
+
+São objetivos da política econômica:
+
+a) A promoção do alto nível de emprego, próximo da plena capacidade da economia.  
+b) A estabilidade dos preços, com mercados livres.  
+c) O equilíbrio em transações correntes com o exterior.  
+d) A promoção de altas taxas de crescimento do produto agregado.  
+**e) Todas as alternativas.**  
+
+### RESOLUÇÃO
+
+A alternativa "**e) Todas as alternativas**" é a correta, pois todas as alternativas apresentadas pela questão fazem parte dos objetivos da Política Econômica (conjunto de ações do governo para influenciar a economia). Esses objetivos são:
+
+- **A promoção do alto nível de emprego** (alternativa "a)")
+    - É o objetivo de manter a taxa de desemprego o mais baixa possível. Uma sociedade com desemprego baixo significa que a economia está produzindo perto do seu potencial máximo (usando sua mão de obra), as pessoas têm renda para consumir (o que gera mais crescimento), e há maior bem-estar social (menos pobreza e instabilidade).
+- **A estabilidade dos preços** (alternativa "b)")
+    - É o objetivo de **controlar a inflação** (evitar que os preços subam de forma descontrolada). A inflação alta corrói o poder de compra (especialmente dos mais pobres), gera incerteza para quem quer investir (você não sabe quanto seu dinheiro valerá amanhã) e bagunça todo o sistema de preços da economia. A estabilidade dá previsibilidade.
+- **O equilíbrio das contas externas** (alternativa "c)")
+    - É o objetivo de manter o equilíbrio da **Balança Comercial**. Simplificando: é tentar equilibrar a quantidade de dinheiro (dólares, euros, etc.) que entra no país (com exportações, investimentos estrangeiros) com a quantidade que sai (com importações, pagamento de dívidas). Um desequilíbrio muito grande (por exemplo, importar muito mais do que exportar por muito tempo) pode levar a uma "fuga de dólares", desvalorização da moeda (câmbio dispara) e crises cambiais.
+- **O crescimento do PIB** (alternativa "d)")
+    - É o objetivo de fazer o PIB crescer de forma sustentada. O crescimento econômico é a principal forma de um país enriquecer. É como o "bolo" da economia aumenta de tamanho ano após ano, permitindo que a renda média das pessoas suba, que o governo arrecade mais (para investir em saúde/educação) e que o padrão de vida melhore.
+- **A distribuição de renda**
+    - É o objetivo de reduzir as disparidades econômicas entre os mais ricos e os mais pobres da sociedade. Esse objetivo não é apenas moral ou social (como a busca por justiça social e redução da pobreza), mas também econômico. Uma desigualdade extrema pode limitar o potencial de consumo do país e gerar instabilidade social e política.
